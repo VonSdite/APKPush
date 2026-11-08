@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APK Push</string>
+    <string name="local_install_permission">请允许 APK Push 安装应用</string>
+</resources>

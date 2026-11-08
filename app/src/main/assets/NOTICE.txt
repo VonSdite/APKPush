@@ -1,0 +1,31 @@
+APK Push 采用 GNU GPL v3 或更新版本，按现状提供，无担保。分发 APK 时须遵循许可证并提供对应源码。项目根目录包含 LICENSE、源代码和构建脚本。
+
+Aurora OSS gplayapi 4.0.0
+Copyright 2026 Aurora OSS
+GPL-3.0-or-later
+https://gitlab.com/AuroraOSS/gplayapi
+
+Kotlin、kotlinx.coroutines、kotlinx.serialization
+Copyright JetBrains s.r.o. and contributors
+Apache-2.0
+https://github.com/JetBrains/kotlin
+https://github.com/Kotlin/kotlinx.coroutines
+https://github.com/Kotlin/kotlinx.serialization
+
+OkHttp、Okio
+Copyright Square, Inc. and contributors
+Apache-2.0
+https://github.com/square/okhttp
+https://github.com/square/okio
+
+AndroidX
+Copyright The Android Open Source Project
+Apache-2.0
+https://android.googlesource.com/platform/frameworks/support
+
+Protocol Buffers
+Copyright Google LLC
+BSD-3-Clause
+https://github.com/protocolbuffers/protobuf
+
+依赖许可证原文随 APK 一起提供于 assets/licenses/。

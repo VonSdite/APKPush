@@ -1,0 +1,14 @@
+/tmp/
+/.gradle/
+/.kotlin/
+/local.properties
+/.idea/
+*.iml
+*.jks
+*.keystore
+/artifacts/*.apk
+/artifacts/*.sha256
+/artifacts/*.png
+/.signing/
+*.p12
+*.pfx
